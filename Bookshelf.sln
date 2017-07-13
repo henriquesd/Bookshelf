@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookshelf", "Bookshelf\Bookshelf.csproj", "{2BDB841E-CDBA-45B3-BB73-A976F5A3DF18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookshelfCommon", "BookshelfCommon\BookshelfCommon.csproj", "{CAFE2493-3C37-4C3A-A23B-154B55DCB885}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookshelfData", "BookshelfData\BookshelfData.csproj", "{A1C848A7-9C17-4C22-97EB-8D6DC7D50468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BDB841E-CDBA-45B3-BB73-A976F5A3DF18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDB841E-CDBA-45B3-BB73-A976F5A3DF18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDB841E-CDBA-45B3-BB73-A976F5A3DF18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDB841E-CDBA-45B3-BB73-A976F5A3DF18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAFE2493-3C37-4C3A-A23B-154B55DCB885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFE2493-3C37-4C3A-A23B-154B55DCB885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFE2493-3C37-4C3A-A23B-154B55DCB885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFE2493-3C37-4C3A-A23B-154B55DCB885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C848A7-9C17-4C22-97EB-8D6DC7D50468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C848A7-9C17-4C22-97EB-8D6DC7D50468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C848A7-9C17-4C22-97EB-8D6DC7D50468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C848A7-9C17-4C22-97EB-8D6DC7D50468}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

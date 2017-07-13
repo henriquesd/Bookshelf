@@ -1,0 +1,9 @@
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\BookshelfCommon\bin\Debug\BookshelfCommon.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\BookshelfCommon\bin\Debug\BookshelfCommon.pdb
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\BookshelfCommon\obj\Debug\BookshelfCommon.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\BookshelfCommon\obj\Debug\BookshelfCommon.pdb
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\BookshelfCommon\bin\Debug\BookshelfCommon.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\BookshelfCommon\bin\Debug\BookshelfCommon.pdb
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\BookshelfCommon\obj\Debug\BookshelfCommon.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\BookshelfCommon\obj\Debug\BookshelfCommon.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\BookshelfCommon\obj\Debug\BookshelfCommon.pdb

@@ -1,0 +1,142 @@
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\obj\Debug\Bookshelf.csprojResolveAssemblyReference.cache
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\ApplicationInsights.config
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\csc.exe
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\csc.exe.config
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\csc.rsp
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\csi.exe
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\csi.rsp
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\System.AppContext.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\System.Collections.Immutable.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\System.IO.FileSystem.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\vbc.exe
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\vbc.exe.config
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\vbc.rsp
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\VBCSCompiler.exe
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\roslyn\VBCSCompiler.exe.config
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Bookshelf.dll.config
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Bookshelf.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Bookshelf.pdb
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Antlr3.Runtime.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\BookshelfCommon.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\BookshelfData.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Microsoft.AI.Web.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Microsoft.AI.WindowsServer.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Microsoft.ApplicationInsights.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Microsoft.Web.Infrastructure.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Newtonsoft.Json.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\System.Web.Helpers.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\System.Web.Mvc.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\System.Web.Optimization.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\System.Web.Razor.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\System.Web.WebPages.Deployment.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\System.Web.WebPages.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\System.Web.WebPages.Razor.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\WebGrease.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\BookshelfCommon.pdb
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\BookshelfData.pdb
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\System.Web.Helpers.xml
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\System.Web.Mvc.xml
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\System.Web.Optimization.xml
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\System.Web.Razor.xml
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\System.Web.WebPages.xml
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\System.Web.WebPages.Deployment.xml
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\System.Web.WebPages.Razor.xml
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Antlr3.Runtime.pdb
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Newtonsoft.Json.xml
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Microsoft.ApplicationInsights.xml
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Microsoft.AI.WindowsServer.xml
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\bin\Microsoft.AI.Web.xml
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\obj\Debug\Bookshelf.dll
+c:\users\henrique\documents\visual studio 2017\Projects\Bookshelf\Bookshelf\obj\Debug\Bookshelf.pdb
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\ApplicationInsights.config
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\csc.exe
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\csc.exe.config
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\csc.rsp
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\csi.exe
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\csi.rsp
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\System.AppContext.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\vbc.exe
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\vbc.exe.config
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\vbc.rsp
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\VBCSCompiler.exe
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Bookshelf.dll.config
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Bookshelf.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Bookshelf.pdb
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Antlr3.Runtime.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\BookshelfCommon.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\BookshelfData.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Microsoft.AI.Web.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Newtonsoft.Json.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\System.Web.Helpers.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\System.Web.Mvc.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\System.Web.Optimization.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\System.Web.Razor.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\System.Web.WebPages.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\System.Web.WebPages.Razor.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\WebGrease.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\BookshelfCommon.pdb
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\BookshelfData.pdb
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\System.Web.Helpers.xml
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\System.Web.Mvc.xml
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\System.Web.Optimization.xml
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\System.Web.Razor.xml
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\System.Web.WebPages.xml
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\System.Web.WebPages.Razor.xml
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Antlr3.Runtime.pdb
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Newtonsoft.Json.xml
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\bin\Microsoft.AI.Web.xml
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\obj\Debug\Bookshelf.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\obj\Debug\Bookshelf.dll
+C:\Users\Henrique\Desktop\GitHub\GitHub-Atualizado\Bookshelf\Bookshelf\obj\Debug\Bookshelf.pdb
